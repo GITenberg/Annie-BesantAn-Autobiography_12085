@@ -1,0 +1,31 @@
+_repo: Annie-BesantAn-Autobiography_12085
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12085'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Besant, Annie, 1847-1933'
+- !lcc 'BP'
+- !lcsh 'Theosophists -- Biography'
+- GITenberg
+title: 'Annie Besant
+
+  An Autobiography'
+url: http://www.gutenberg.org/ebooks/12085
